@@ -4,3 +4,6 @@ Virtual Worlds - Assignments
 Assignment 4 without ECS
 
 ![noECS](images/noECS.png)
+
+with ECS
+![APECS](images/APECS.png)
